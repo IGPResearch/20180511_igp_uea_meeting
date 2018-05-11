@@ -11,7 +11,7 @@ index.html : slides.md template.html
 	pandoc $< -o $@ --template=template.html --standalone --write=revealjs --css mytheme.css
 
 serve:
-	python3 -m http.server 8000
+	python3 -m http.server 8080
 
 clean:
 	-rm $(ALL)
