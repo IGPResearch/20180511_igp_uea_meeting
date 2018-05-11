@@ -24,14 +24,6 @@ transition: convex
 </div>
 </center>
 
-# Flight 292
-<center>
-<div class="w100">
-  <video src="media/flight_292_tom_is_stuck.mp4" width="100%" muted controls alt="video"></video>
-</div>
-</center>
-
-
 # Flight 293-294 aka The Birthday Flight
 <center>
 <div class="w45">
